@@ -5,7 +5,7 @@ public class IfElseIfStatement {
         /*
          * Syntax of multiple if else if Statement
          * 
-         * if (voolean expression Yor F){
+         * if (boolean expression Yor F){
          * body
          * }else if {
          * do this
