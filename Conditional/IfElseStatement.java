@@ -1,3 +1,4 @@
+package JavaStart.Conditional;
 import java.util.Scanner;
 
 public class IfElseStatement {

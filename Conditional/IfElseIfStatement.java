@@ -1,9 +1,10 @@
+package JavaStart.Conditional;
 import java.util.Scanner;
 
 public class IfElseIfStatement {
     public static void main(String[] args) {
         /*
-         * Syntax of multiple if else if Statement
+         * Syntax of multiple if else-if-Statement
          * 
          * if (boolean expression Yor F){
          * body

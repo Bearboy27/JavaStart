@@ -1,4 +1,4 @@
-package Loops;
+package JavaStart.Loops;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class DoWhileLoop {
                  * }while (condition);
                  */
         Scanner sc = new Scanner(System.in)) {
-            System.out.print("Enter a number so we will print upto that number from 1 (so kindely enter a number) = ");
+            System.out.print("Enter a number so we will print up to that number from 1 (so kindly enter a number) = ");
            int num = sc.nextInt();
             int i=1;
             do{
