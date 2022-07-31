@@ -25,6 +25,7 @@ public class Reverse {
             start ++;
             end --;
         }
+        return end;
 
     }
 
