@@ -1,16 +1,16 @@
-package JavaStart.Loops;
+package JavaStart.JavaStart.Loops;
 
 import java.util.Scanner;
 
 public class ForLoops {
     public static void main(String[] args) {
-          /*
-     * syntax for Loops
-     * for (initialization; condition;  increment/decrement){
-     * body
-     * }
-     */
-    
+        /*
+         * syntax for Loops
+         * for (initialization; condition;  increment/decrement){
+         * body
+         * }
+         */
+
 
      // PRINT NUMBERS FORM 1 TO 5
      try (Scanner sc = new Scanner(System.in)) {
